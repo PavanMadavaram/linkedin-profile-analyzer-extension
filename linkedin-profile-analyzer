@@ -1,0 +1,6 @@
+linkedin-profile-analyzer/
+│── manifest.json
+│── popup.html
+│── popup.js
+│── content.js
+│── style.css   (optional)
